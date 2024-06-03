@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Computer Vision for Medical Imaging
       image:
         filename: welcome.jpg
       text: |
