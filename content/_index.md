@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Computer Vision for Medical Imaging** has been a center of excellence for Medical Imaging research, teaching, and practice since its founding in 2022.
   
   - block: collection
     content:
