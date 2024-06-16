@@ -1,5 +1,5 @@
 ---
-title: Announcing Our Latest Research: Uncertainty Driven Bottleneck Attention U-Net for Organ at Risk Segmentation
+title: Uncertainty Driven Bottleneck Attention U-Net for Organ at Risk Segmentation
 date: 2024-02-24
 ---
 
