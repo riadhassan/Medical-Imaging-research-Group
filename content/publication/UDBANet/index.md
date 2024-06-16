@@ -1,5 +1,5 @@
 ---
-title: 'UNCERTAINTY DRIVEN BOTTLENECK ATTENTION U-NET FOR ORGAN AT RISK SEGMENTATION'
+title: 'Uncertainty Driven Bottleneck Attention U-Net for Organ at Risk Segmentation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,7 +27,7 @@ publishDate: '2024-05-31T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Symposium on Biomedical Imaging,*
+publication: In *International Symposium on Biomedical Imaging*
 publication_short: In *ISBI*
 
 abstract: Organ at risk (OAR) segmentation in computed tomography (CT) imagery is a difficult task for automated segmentation methods and can be crucial for downstream radiation treatment planning. U-net has become a de-facto standard for medical image segmentation and is frequently used as a common baseline in medical image segmentation tasks. In this paper, we propose a multiple decoder U-net architecture and use the segmentation disagreement between the decoders as attention to the bottleneck of the network for segmentation refinement. While feature correlation is considered as attention in most cases, in our case it is the uncertainty from the network used as attention. For accurate segmentation, we also proposed a CT intensity integrated regularization loss. Proposed regularisation helps model understand the intensity distribution of low contrast tissues. We tested our model on two publicly available OAR challenge datasets. We also conducted the ablation on each datasets with the proposed attention module and regularization loss. Experimental results demonstrate a clear accuracy improvement on both datasets.

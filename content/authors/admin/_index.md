@@ -5,7 +5,7 @@ title: Riad Hassan
 # Full Name (for SEO)
 first_name: Riad
 last_name: Hassan
-Position: 2
+Position: 3
 
 # Is this the primary user of the site?
 superuser: true
@@ -45,7 +45,7 @@ social:
     icon_pack: fas
     link: 'mailto:riad_hassan@outlook.com'
   - icon: globe
-    icon_pack: fab
+    icon_pack: fas
     link: https://riadhassan.github.io/academic/
   - icon: google-scholar
     icon_pack: ai
