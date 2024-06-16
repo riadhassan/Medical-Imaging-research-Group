@@ -1,10 +1,11 @@
 ---
 # Display name
-title: RIad Hassan
+title: Riad Hassan
 
 # Full Name (for SEO)
 first_name: Riad
 last_name: Hassan
+Position: 2
 
 # Is this the primary user of the site?
 superuser: true
