@@ -44,6 +44,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:riad_hassan@outlook.com'
+  - icon: globe
+    icon_pack: fab
+    link: https://riadhassan.github.io/academic/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=heXZzcQAAAAJ&hl=en
