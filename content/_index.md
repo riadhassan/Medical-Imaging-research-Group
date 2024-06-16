@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Computer Vision for Medical Imaging
+        Biomedical Biomedical Robotics, AI and Imaging Network
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Computer Vision for Medical Imaging** has been a center of excellence for Medical Imaging research, teaching, and practice since its founding in 2022.
+        The **Biomedical Robotics, AI and Imaging Network (BRAIN) Lab** has been a center of excellence for Medical Imaging research, development since its founding in 2022.
   
   - block: collection
     content:
