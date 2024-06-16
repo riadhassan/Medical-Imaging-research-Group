@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Biomedical Biomedical Robotics, AI and Imaging Network
+        Biomedical Robotics, AI and Imaging Network
       image:
         filename: welcome.jpg
       text: |
@@ -21,7 +21,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 5
+      count: 2
       filters:
         author: ''
         category: ''

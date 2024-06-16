@@ -15,11 +15,11 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Research Team
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: 'BRAIN Lab'
+    description: 'A research group for medical image analysis'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Brain Lab. This work is licensed under {license}'
+    notice: '© {year} BRAIN Lab. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
