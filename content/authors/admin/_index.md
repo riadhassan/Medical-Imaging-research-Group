@@ -11,7 +11,7 @@ Position: 3
 superuser: true
 
 # Role/position
-role: Lecturer of CSE
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:

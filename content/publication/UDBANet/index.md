@@ -5,7 +5,7 @@ title: 'Uncertainty Driven Bottleneck Attention U-Net for Organ at Risk Segmenta
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Abdullah Nazib
+  - Nazib
   - admin
   - Zahid
   - Clinton Fookes
