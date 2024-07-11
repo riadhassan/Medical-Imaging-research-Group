@@ -73,4 +73,4 @@ user_groups:
 
 Riad Hassan is a Lecturer of CSE at the Green University of Bangladesh. His research interests include Deep Learning, Medical Imaging, Region of Interest. He  is also MSc student at Bangladesh University of Engineering and Technology. Beside those he involved in Biomedical Biomedical Robotics, AI and Imaging Network group, which develops medical imaging tools.
 
-Transforming research outputs into daily usable applications is fun. Interested in innovative research project. Kindly let me know. I will definitely get back to you.
+Transforming research outputs into daily usable applications is fun. Interested in innovative research project. [Kindly let me know](mailto:riad_hassan@outlook.com). I will definitely get back to you. 

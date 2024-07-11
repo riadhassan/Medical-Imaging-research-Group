@@ -14,7 +14,7 @@ sections:
       text: |
         <br>
         
-        The **Biomedical Robotics, AI and Imaging Network (BRAIN) Lab** has been a center of excellence for Medical Imaging research, development since its founding in 2022.
+        The **Biomedical Robotics, AI and Imaging Network (BioRAIN) Lab** has been a center of excellence for Medical Imaging research, development since its founding in 2022.
   
   - block: collection
     content:
