@@ -3,6 +3,7 @@ title: Enhancing Semantic Segmentation with Adaptive Focal Loss
 date: 2024-07-22
 authors:
 - admin
+- Rakib
 ---
 
 Announcing Our Latest Research: Enhancing Semantic Segmentation with Adaptive Focal Loss
