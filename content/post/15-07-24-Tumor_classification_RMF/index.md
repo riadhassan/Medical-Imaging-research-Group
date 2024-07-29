@@ -1,6 +1,8 @@
 ---
 title: Automated Radiomics Based Clinically Significant Prostate Cancer Grade Classification from Biparametric MRI
 date: 2024-07-15
+authors:
+- admin
 ---
 
 Announcing Our Latest Research: Automated Radiomics Based Clinically Significant Prostate Cancer Grade Classification from Biparametric MRI
