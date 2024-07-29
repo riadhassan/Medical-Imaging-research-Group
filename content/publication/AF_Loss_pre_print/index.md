@@ -8,9 +8,7 @@ authors:
 - Clinton Fookes
 - Zahid
 date: "2024-07-13"
-doi: "
-https://doi.org/10.48550/arXiv.2407.09828
-"
+doi: "https://doi.org/10.48550/arXiv.2407.09828"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-07-13"
@@ -34,15 +32,15 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: https://arxiv.org/abs/2407.09828
+# - name: Custom Link
+#   url: https://arxiv.org/abs/2407.09828
 url_pdf: https://arxiv.org/pdf/2407.09828
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -56,8 +54,8 @@ url_video: '#'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+# projects:
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
