@@ -15,11 +15,11 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-05-31T00:00:00Z'
-doi: ''
+date: '2024-05-30T00:00:00Z'
+doi: '10.1109/ISBI56570.2024.10635587'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-05-31T00:00:00Z'
+publishDate: '2024-08-22T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -41,9 +41,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Paper
+  url: 'https://ieeexplore.ieee.org/document/10635587'
 
 url_pdf: 'https://arxiv.org/pdf/2303.10796'
 url_code: 'https://github.com/riadhassan/UDBA-UNet'
