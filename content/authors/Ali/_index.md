@@ -11,7 +11,7 @@ Position: 2
 superuser: false
 
 # Role/position
-role: Senior ML Engineer
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations
 organizations:
