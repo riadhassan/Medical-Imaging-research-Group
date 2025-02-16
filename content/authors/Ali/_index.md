@@ -18,19 +18,22 @@ organizations:
   - name: Queensland University of Technology
     url: ''
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research focuses on Image Processing, Deep Learning, and Embedded Systems.
+# # Short bio (displayed in user profile at end of posts)
+# bio: My research interests include Medical Imaging, Recommendation systems.
 
-interests:
-  - Image Processing
-  - Deep Learning
-  - Embedded Systems 
+# interests:
+#   - Medical Imaging
+#   - Computer Vision
+#   - Recommendation systems
 
 education:
   courses:
-    - course: B.Sc.
-      institution: Pabna University of Science and Technology, Bangladesh
-      year: 2025
+    - course: PhD
+      institution: Queensland University of Technology
+      year: 
+    - course: MSc
+      institution: Politecnico di Milano
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -39,14 +42,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:sajeeb.ray.ice@gmail.com'
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/sajeeb02/
-  - icon: globe
-    icon_pack: fas
-    link: https://sajeebray.github.io
-
+    link: 'mailto:s20.ali@qut.edu.au'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.it/citations?user=xtq2f2kAAAAJ&hl=en
+  # - icon: github
+  #   icon_pack: fab
+  #   link: https://github.com/nazib
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -62,9 +64,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+  - Principal Investigators
   - Researchers
 ---
 
-Sajeeb Kumar Ray is a dedicated researcher and top student at the Faculty of Engineering and Technology, Pabna University of Science and Technology (PUST). His research focuses on Image Processing, Deep Learning, and Embedded Systems. In addition to his research, Sajeeb is a skilled competitive programmer, holding a Specialist rank on CodeForces, a 4-star rating on CodeChef, and a Gold badge on HackerRank. He was also a finalist in Disaster Hackathon 2.0 and Champion of Innovation Showcasing - 2024.
-
-Sajeeb is passionate about innovation and has completed several embedded systems projects. He holds key leadership roles, including Vice President of the ICE Association and Vice President of Solver Green. His accomplishments have earned him the Student of the Year Award - 2025 and Academic Excellence Award - 2025.
+<!-- Machine Learning Engineer & Data Scientist. Over 7 years of experience as a Computer Vision and Machine Learning Engineer specializing in Segmentation, Detection, Classification, and developing Recommendation systems as well as medical image processing. -->
