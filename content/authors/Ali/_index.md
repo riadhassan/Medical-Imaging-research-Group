@@ -5,7 +5,7 @@ title: Shahnewaz Ali
 # Full Name (for SEO)
 first_name: Shahnewaz
 last_name: Ali
-Position: 3
+Position: 2
 
 # Is this the primary user of the site?
 superuser: false
