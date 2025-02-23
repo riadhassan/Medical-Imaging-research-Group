@@ -18,7 +18,7 @@ author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '13 February 2025'
+date: '2025-02-13T00:00:00Z'
 doi: '10.1109/DICTA63115.2024.00073'
 
 # Schedule page publish date (NOT publication's date).
