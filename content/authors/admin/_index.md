@@ -11,7 +11,7 @@ Position: 3
 superuser: true
 
 # Role/position
-role: Lecturer
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -46,7 +46,7 @@ social:
     link: 'mailto:riad_hassan@outlook.com'
   - icon: globe
     icon_pack: fas
-    link: https://riadhassan.github.io/academic/
+    link: https://riadhassan.github.io/
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=heXZzcQAAAAJ&hl=en

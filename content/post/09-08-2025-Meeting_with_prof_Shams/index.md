@@ -1,5 +1,5 @@
 ---
-title: Successful Research Meeting for Research Collaboration
+title: Successful Meeting for Research Collaboration
 date: 2025-08-09
 authors:
 - admin
